@@ -35,7 +35,7 @@ I am a Digital Humanities student with a background in Classical Studies, intere
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ [Apollonian & Dionysian](https://github.com/aiMoirai/Apollonian-Dionysian)
+### 🏛️ [Apollonian & Dionysian](https://aimoirai.github.io/Apollonian-Dionysian/))
 
 Virtual exhibition on the contrast between the Apollonian and the Dionysian
 
@@ -47,7 +47,7 @@ Virtual exhibition on the contrast between the Apollonian and the Dionysian
 
 <td width="50%" valign="top">
 
-### ⚔️ [The Sword in the Stone — LOD](https://github.com/The-Sword-in-the-Stone-LOD/The-Sword-in-the-Stone-LOD)
+### ⚔️ [The Sword in the Stone — LOD](https://the-sword-in-the-stone-lod.github.io/The-Sword-in-the-Stone-LOD/))
 
 A project exploring the use of **Linked Open Data and semantic technologies** to represent cultural knowledge.
 
@@ -61,7 +61,7 @@ A project exploring the use of **Linked Open Data and semantic technologies** to
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [RhAPPsody](https://github.com/3Graces)
+### 🎭 [RhAPPsody](https://3graces.github.io/RhAPPsody-website/)
 
 Development of a digital experience that guides the visitor through the National Music Museum of Bologna
 
@@ -73,7 +73,7 @@ Development of a digital experience that guides the visitor through the National
 
 <td width="50%" valign="top">
 
-### 🌑 [Dark Ontology](https://github.com/SicMundusOrganization/dark-ontology)
+### 🌑 [Dark Ontology](https://sicmundusorganization.github.io/dark-ontology/)
 
 A project focused on **ontology development and knowledge representation** using semantic technologies.
 
