@@ -35,7 +35,7 @@ I am a Digital Humanities student with a background in Classical Studies, intere
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ [Apollonian & Dionysian](https://aimoirai.github.io/Apollonian-Dionysian/))
+### 🏛️ [Apollonian & Dionysian](https://aimoirai.github.io/Apollonian-Dionysian/)
 
 Virtual exhibition on the contrast between the Apollonian and the Dionysian
 
@@ -47,7 +47,7 @@ Virtual exhibition on the contrast between the Apollonian and the Dionysian
 
 <td width="50%" valign="top">
 
-### ⚔️ [The Sword in the Stone — LOD](https://the-sword-in-the-stone-lod.github.io/The-Sword-in-the-Stone-LOD/))
+### ⚔️ [The Sword in the Stone — LOD](https://the-sword-in-the-stone-lod.github.io/The-Sword-in-the-Stone-LOD/)
 
 A project exploring the use of **Linked Open Data and semantic technologies** to represent cultural knowledge.
 
@@ -87,7 +87,7 @@ A project focused on **ontology development and knowledge representation** using
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Monologue Generator](https://colab.research.google.com/drive/1MtymoUSIiwSyRfMuK5gg2X6jC0Q5rXCZ)
+### 📊 [AI Acting Lite](https://colab.research.google.com/drive/1MtymoUSIiwSyRfMuK5gg2X6jC0Q5rXCZ)
 
 A retrieval-grounded monologue generation system that reconstructs the interpretative voice of historical-literary characters by conditioning a general-purpose language model on a curated corpus.
 
