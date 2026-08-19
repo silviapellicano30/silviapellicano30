@@ -1,7 +1,8 @@
 # Hi there! I'm Silvia 👋
 
 🎓 **Digital Humanities & Digital Knowledge student at the University of Bologna**
-📚 **Classical Studies background** · 🌍 Erasmus+ at **KU Leuven**
+📚 **Classical Studies background** 
+🌍 Erasmus+ at **KU Leuven**
 
 I am a Digital Humanities student with a background in Classical Studies, interested in exploring how **digital methods, data, and semantic technologies can be used to study, represent, and preserve cultural heritage**.
 
