@@ -163,4 +163,4 @@ A retrieval-grounded monologue generation system that reconstructs the interpret
 
 ---
 
-⭐ *Always learning, experimenting, and looking for new ways to connect the humanities with technology.*
+
