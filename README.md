@@ -1,9 +1,5 @@
 # Hi there! I'm Silvia 👋
 
-<p align="center">
-  <img src="coding-fairy.gif" alt="A little fairy coding on a laptop, surrounded by floating code snippets and sparkles" width="600">
-</p>
-
 I am a Digital Humanities student with a background in Classical Studies, interested in exploring how **digital methods, data, and semantic technologies can be used to study, represent, and preserve cultural heritage**.
 
 ---
