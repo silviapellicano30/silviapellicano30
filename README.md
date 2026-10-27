@@ -1,139 +1,75 @@
-# Hi there! I'm Silvia 👋
+## About Me
 
-I am a **Digital Humanist** with a background in **Humanities and Classics**, interested in how technologies can be applied to the study, preservation, and representation of cultural heritage. As a student in the **MA in Digital Humanities and Digital Knowledge (DHDK)**, I am oriented towards academic research and related areas such as computational text analysis, semantic web technologies, ontology design, and data management.
+I am a **Digital Humanist** with a background in Humanities and Classics, interested in the application of digital technologies to cultural heritage and academic research.
 
----
+Currently pursuing an **MA in Digital Humanities and Digital Knowledge (DHDK)** at the University of Bologna, I am oriented towards academic research at the intersection of the humanities and digital technologies, with a particular interest in computational text analysis, Semantic Web technologies, ontology design, and data management.
 
-## 👩🏻‍💻 About Me
-
-* 🎓 **MA in Digital Humanities and Digital Knowledge** — University of Bologna · 2024–present
-* 📜 **BA in Classical Studies** — University of Bologna · 2021–2024
-* 📚 **Internship — [OpenCitations](https://opencitations.net/)** — building the OpenCitations configuration of LUCINDA on the new SKG-IF APIs · September 2026–present
-* 🇧🇪 **Erasmus+ Exchange** — KU Leuven · Academic Year 2025/2026
-* 🏺 **Internship — [InBoRC](https://site.unibo.it/inborc/en)** — worked with **XML/EpiDoc encoding** to digitally represent and study ancient inscriptions · March–May 2026
-* 🇪🇺 **ENCODE: Digital Competences in Ancient Writing Cultures** — Erasmus+ BIP Intensive Programme · April–May 2025
+- **MA in Digital Humanities and Digital Knowledge** — University of Bologna · 2024–present
+- **Internship at [OpenCitations](https://opencitations.net/)** — LUCINDA configuration and integration with the new SKG-IF APIs · September 2026–present
+- **Internship at [InBoRC](https://site.unibo.it/inborc/en)** — Digital encoding of ancient inscriptions using XML/EpiDoc · March–May 2026
+- **Erasmus+ Exchange** — KU Leuven · Academic Year 2025/2026
+- **BA in Classical Studies** — University of Bologna · 2021–2024
+- **ENCODE: Digital Competences in Ancient Writing Cultures** — Erasmus+ Blended Intensive Programme · April–May 2025
 
 ---
 
-## 🗂️ Projects
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ [Apollonian & Dionysian](https://aimoirai.github.io/Apollonian-Dionysian/)
-
-A virtual exhibition on the contrast between the Apollonian and the Dionysian.
-
-**Focus:** HTML · CSS · JS
-
-[View repository →](https://github.com/aiMoirai/Apollonian-Dionysian)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚔️ [The Sword in the Stone — LOD](https://the-sword-in-the-stone-lod.github.io/The-Sword-in-the-Stone-LOD/)
-
-A project exploring the use of **Linked Open Data and semantic technologies** to represent cultural knowledge.
-
-**Focus:** RDF · LOD · TEI/XML · XSLT
-
-[View repository →](https://github.com/The-Sword-in-the-Stone-LOD/The-Sword-in-the-Stone-LOD)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 [RhAPPsody](https://3graces.github.io/RhAPPsody-website/)
-
-Development of a digital experience that guides the visitor through the National Music Museum of Bologna.
-
-**Focus:** Figma · Twine · Qualtrics
-
-[View repository →](https://github.com/3Graces)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌑 [Dark Ontology](https://sicmundusorganization.github.io/dark-ontology/)
-
-A project focused on **ontology development and knowledge representation** using semantic technologies.
-
-**Focus:** RDF · SPARQL
-
-[View repository →](https://github.com/SicMundusOrganization/dark-ontology)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [AI Acting Lite](https://colab.research.google.com/drive/1MtymoUSIiwSyRfMuK5gg2X6jC0Q5rXCZ)
-
-A retrieval-grounded monologue generation system that reconstructs the interpretative voice of historical-literary characters by conditioning a general-purpose language model on a curated corpus.
-
-**Focus:** Python · NLP
-
-[Open in Google Colab →](https://colab.research.google.com/drive/1MtymoUSIiwSyRfMuK5gg2X6jC0Q5rXCZ)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📜 [Digital Lucretius](https://silviapellicano30.github.io/DigitaLucretius/)
-
-A digital scholarly edition of the proem to Book III of Lucretius' *De rerum natura*, based on Deufert's Teubner text, with an interactive critical apparatus, stemma codicum and philosophical keywords.
-
-**Focus:** TEI/XML · XSLT · HTML · CSS · JS
-
-[View repository →](https://github.com/silviapellicano30/DigitaLucretius)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Data Flames
-
-A Python application that provides a unified and simultaneous interface to data stored in two different systems: a Blazegraph SPARQL graph database containing metadata about journals from the Directory of Open Access Journals (DOAJ), and a SQLite relational database containing information on scholarly journals in terms of their categories and areas of interest as extracted from Scimago Journal Rank (SJR).
-
-**Focus:** Python · SPARQL · SQL · SQLite · Blazegraph
-
-</td>
-
-<td width="50%" valign="top">&nbsp;</td>
-</tr>
-</table>
+| Project | Description | Technologies |
+|:--|:--|:--|
+| [**Data Flames**](https://github.com/elenavalente31/data_flamess) | Python application integrating scholarly journal data from graph and relational databases. | Python · SPARQL · SQL · SQLite · Blazegraph |
+| [**AI Acting Lite**](https://colab.research.google.com/drive/1MtymoUSIiwSyRfMuK5gg2X6jC0Q5rXCZ) | Retrieval-grounded generation of monologues inspired by historical-literary characters. | Python · NLP |
+| [**Apollonian & Dionysian**](https://aimoirai.github.io/Apollonian-Dionysian/) | Virtual exhibition exploring the Apollonian–Dionysian contrast. | HTML · CSS · JavaScript |
+| [**Dark Ontology**](https://sicmundusorganization.github.io/dark-ontology/) | Ontology development and semantic knowledge representation. | RDF · SPARQL |
+| [**The Sword in the Stone — LOD**](https://the-sword-in-the-stone-lod.github.io/The-Sword-in-the-Stone-LOD/) | Cultural knowledge representation through Linked Open Data and semantic technologies. | RDF · LOD · TEI/XML · XSLT |
+| [**Digital Lucretius**](https://silviapellicano30.github.io/DigitaLucretius/) | Digital scholarly edition of *De rerum natura* III, featuring a critical apparatus, stemma codicum, and philosophical keywords. | TEI/XML · XSLT · HTML · CSS · JavaScript |
+| [**RhAPPsody**](https://3graces.github.io/RhAPPsody-website/) | Digital experience guiding visitors through Bologna's National Music Museum. | Figma · Twine · Qualtrics |
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **🐍 Programming & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) — **Python · R · Pandas · Jupyter** |
-| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Blazegraph](https://img.shields.io/badge/Blazegraph-6C63FF?style=flat-square) — **MySQL · SQLite · Blazegraph** |
-| **🔎 Query Languages** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![SPARQL](https://img.shields.io/badge/SPARQL-59636E?style=flat-square) — **SQL · SPARQL** |
-| **🔗 Semantic Web & Digital Humanities** | ![RDF](https://img.shields.io/badge/RDF-Semantic_Web-6C63FF?style=flat-square) ![XML](https://img.shields.io/badge/XML-8B5CF6?style=flat-square) ![TEI](https://img.shields.io/badge/TEI-8B1E1E?style=flat-square) ![EpiDoc](https://img.shields.io/badge/EpiDoc-A0522D?style=flat-square) ![XSLT](https://img.shields.io/badge/XSLT-FF6F00?style=flat-square) — **RDF · XML · TEI · EpiDoc · XSLT · Semantic Web · Linked Open Data · Knowledge Representation · Ontologies** |
-| **🌐 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) — **HTML5 · CSS3 · JavaScript · Bootstrap** |
-| **🧰 Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Qualtrics](https://img.shields.io/badge/Qualtrics-00A4EF?style=flat-square) — **Git · Visual Studio Code · Figma · Blender · Qualtrics** |
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Databases & Query Languages**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Blazegraph](https://img.shields.io/badge/Blazegraph-6C63FF?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![SPARQL](https://img.shields.io/badge/SPARQL-59636E?style=flat-square)
+
+**Semantic Web & Digital Humanities**  
+![RDF](https://img.shields.io/badge/RDF-Semantic_Web-6C63FF?style=flat-square)
+![XML](https://img.shields.io/badge/XML-8B5CF6?style=flat-square)
+![TEI](https://img.shields.io/badge/TEI-8B1E1E?style=flat-square)
+![EpiDoc](https://img.shields.io/badge/EpiDoc-A0522D?style=flat-square)
+![XSLT](https://img.shields.io/badge/XSLT-FF6F00?style=flat-square)
+
+*Linked Open Data · Knowledge Representation · Ontologies*
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Design**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Qualtrics](https://img.shields.io/badge/Qualtrics-00A4EF?style=flat-square)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-📧 **University:** [silvia.pellicano@studio.unibo.it](mailto:silvia.pellicano@studio.unibo.it)
-
-💼 **LinkedIn:** [Silvia Antonella Pellicano](https://www.linkedin.com/in/silvia-antonella-pellicano-78a89628a/)
-
-🐙 **GitHub:** [@silviapellicano30](https://github.com/silviapellicano30)
+- **University email:** [silvia.pellicano@studio.unibo.it](mailto:silvia.pellicano@studio.unibo.it)
+- **LinkedIn:** [Silvia Antonella Pellicano](https://www.linkedin.com/in/silvia-antonella-pellicano-78a89628a/)
+- **GitHub:** [@silviapellicano30](https://github.com/silviapellicano30)
 
 ---
-
-
