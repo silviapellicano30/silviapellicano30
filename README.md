@@ -1,6 +1,6 @@
 # Hi there! I'm Silvia 👋
 
-I am a Digital Humanities student with a background in Classical Studies, interested in exploring how **digital methods, data, and semantic technologies can be used to study, represent, and preserve cultural heritage**.
+I am a **Digital Humanist** with a background in **Humanities and Classics**, interested in how technologies can be applied to the study, preservation, and representation of cultural heritage. As a student in the **MA in Digital Humanities and Digital Knowledge (DHDK)**, I am oriented towards academic research and related areas such as computational text analysis, semantic web technologies, ontology design, and data management.
 
 ---
 
@@ -95,57 +95,34 @@ A digital scholarly edition of the proem to Book III of Lucretius' *De rerum nat
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Data Flames
+
+A Python application that provides a unified and simultaneous interface to data stored in two different systems: a Blazegraph SPARQL graph database containing metadata about journals from the Directory of Open Access Journals (DOAJ), and a SQLite relational database containing information on scholarly journals in terms of their categories and areas of interest as extracted from Scimago Journal Rank (SJR).
+
+**Focus:** Python · SPARQL · SQL · SQLite · Blazegraph
+
+</td>
+
+<td width="50%" valign="top">&nbsp;</td>
+</tr>
 </table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🐍 Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Python · R · Pandas · Jupyter**
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**SQL · MySQL · SQLite**
-
-### 🔗 Semantic Web & Digital Humanities
-
-![RDF](https://img.shields.io/badge/RDF-Semantic_Web-6C63FF?style=flat-square)
-![SPARQL](https://img.shields.io/badge/SPARQL-Query_Language-59636E?style=flat-square)
-![XML](https://img.shields.io/badge/XML-8B5CF6?style=flat-square)
-![TEI](https://img.shields.io/badge/TEI-8B1E1E?style=flat-square)
-![EpiDoc](https://img.shields.io/badge/EpiDoc-A0522D?style=flat-square)
-![XSLT](https://img.shields.io/badge/XSLT-FF6F00?style=flat-square)
-
-**RDF · SPARQL · Blazegraph · XML · TEI · EpiDoc · XSLT · Semantic Web · Linked Open Data · Knowledge Representation · Ontologies**
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**HTML5 · CSS3 · JavaScript · Bootstrap**
-
-### 🧰 Tools & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Qualtrics](https://img.shields.io/badge/Qualtrics-00A4EF?style=flat-square)
-
-**Git · Visual Studio Code · Figma · Blender · Qualtrics**
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **🐍 Programming & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) — **Python · R · Pandas · Jupyter** |
+| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Blazegraph](https://img.shields.io/badge/Blazegraph-6C63FF?style=flat-square) — **MySQL · SQLite · Blazegraph** |
+| **🔎 Query Languages** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![SPARQL](https://img.shields.io/badge/SPARQL-59636E?style=flat-square) — **SQL · SPARQL** |
+| **🔗 Semantic Web & Digital Humanities** | ![RDF](https://img.shields.io/badge/RDF-Semantic_Web-6C63FF?style=flat-square) ![XML](https://img.shields.io/badge/XML-8B5CF6?style=flat-square) ![TEI](https://img.shields.io/badge/TEI-8B1E1E?style=flat-square) ![EpiDoc](https://img.shields.io/badge/EpiDoc-A0522D?style=flat-square) ![XSLT](https://img.shields.io/badge/XSLT-FF6F00?style=flat-square) — **RDF · XML · TEI · EpiDoc · XSLT · Semantic Web · Linked Open Data · Knowledge Representation · Ontologies** |
+| **🌐 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) — **HTML5 · CSS3 · JavaScript · Bootstrap** |
+| **🧰 Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Qualtrics](https://img.shields.io/badge/Qualtrics-00A4EF?style=flat-square) — **Git · Visual Studio Code · Figma · Blender · Qualtrics** |
 
 ---
 
